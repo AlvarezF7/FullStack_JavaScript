@@ -9,5 +9,5 @@ git status	Muestra el estado del repositorio	         git status
 💡 Tip: El flujo típico de trabajo es:
 
 git add . 
-git commit -m "mensaje"
+git commit -m "mensaje".
 git status.
